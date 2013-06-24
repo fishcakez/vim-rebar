@@ -12,7 +12,7 @@ Features
 
 Install
 -------
-- Install `dispatch.vim` (https://github.com/tpope/vim-dispatch.vim)
+- Install `dispatch.vim` (https://github.com/tpope/vim-dispatch)
 
 - Install `rebar_vim_plugin` (https://github.com/fishcakez/rebar_vim_plugin)
 
