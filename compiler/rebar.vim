@@ -33,10 +33,10 @@ endif
 unlet s:rebar_config
 
 CompilerSet errorformat=
-            \%f:%l:\ %m,
-            \%f:none:\ %m,
             \%f:%l:\ %tarning:\ %m,
             \%f:none:\ %tarning:\ %m,
+            \%f:%l:\ %m,
+            \%f:none:\ %m,
             \%tRROR:%\\s%\\+%m,
             \%tARN:%\\s%\\+%m,
             \%\\s%#Command\ %m,
